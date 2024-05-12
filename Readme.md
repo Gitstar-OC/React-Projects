@@ -3,12 +3,14 @@
 
 ---
 ## Outline 
-- [Projects](#Projects)
+- [Mini Projects](#Mini-Projects)
 - [1 Accordian Component](#Accordian)
 - [2 Random Color Generator](#RCG)
 
+# Big Projects
 
-## Projects
+
+## Mini Projects
 
 **_See this is extremely useful line of code which maybe asked in interview, and might be helpful concept. You can modify it further to next level using your ideas and ability to code, I am just writing basic code of that particular topic!!_**
 
