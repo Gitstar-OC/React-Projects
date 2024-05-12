@@ -10,6 +10,21 @@
 - ### [Mini Projects](#mini-projects)
   - #### [1. Accordian Component](#accordian)
   - #### [2. Random Color Generator](#rcg)
+  - #### [3. Star Rating]()
+  - #### [4. Image Slider]()
+  - ####
+  - ####
+  - #### 
+  - ####
+  - ####
+  - ####
+  - ####
+  - ####
+  - ####
+  - ####
+  - ####
+  - ####
+  - ####
 
 ## Big Projects
 **_These are some huge projects that I have created (No one is full-stack currently). These projects encompass all the React concepts that I have mentioned in [React Notes](https://github.com/Gitstar-OC/React-Notes). The code for these projects is stored in separate repositories so I can update them as needed. You can also make pull requests if you want to contribute, and I will review your changes._**
