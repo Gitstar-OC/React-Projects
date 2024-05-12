@@ -7,7 +7,7 @@
 - [1 Accordian Component](#Accordian)
 - [2 Random Color Generator](#RCG)
 
-# Big Projects
+## Big Projects
 
 
 ## Mini Projects
