@@ -4,12 +4,20 @@
 ---
 ## Outline 
 - [Big Projects](#Big-Projects)
+  - [Little Lemon](#Little-Lemon)
+  - [Theme Verse (In Progress..)](#Theme-Verse) 
+
 - [Mini Projects](#Mini-Projects)
   - [1 Accordian Component](#Accordian)
   - [2 Random Color Generator](#RCG)
 
 ## Big Projects
 **_This are some huge projects that I have created (No one is full-stack currently), This project take all the react concepts that I have mentioned in [React Notes](https://github.com/Gitstar-OC/React-Notes), This code are just in another repository so I could update them when I want, you could also make pull request if you want to add some good things to this project and I will review your project_**
+
+1. [Little Lemon Coursera]()
+
+
+2. [Theme-Verse]()
 
 
 ## Mini Projects
