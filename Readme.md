@@ -24,7 +24,7 @@
   - #### [14. Feature Flag]() 
   - #### [15. useFetch Custom Hook]() 
   - #### [16. useOnclickOutside Custom Hook]() 
-  - ####
+  - #### [17. useWindowResize Custom Hook]() 
 
 ## Big Projects
 **_These are some huge projects that I have created (No one is full-stack currently). These projects encompass all the React concepts that I have mentioned in [React Notes](https://github.com/Gitstar-OC/React-Notes). The code for these projects is stored in separate repositories so I can update them as needed. You can also make pull requests if you want to contribute, and I will review your changes._**
