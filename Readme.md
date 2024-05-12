@@ -12,10 +12,10 @@
   - #### [2. Random Color Generator](#rcg)
   - #### [3. Star Rating]()
   - #### [4. Image Slider]()
-  - ####
-  - ####
+  - #### [5. Load More Button]() 
+  - #### [6. Tree View]() 
+  - #### [7. QR Code Generator]()
   - #### 
-  - ####
   - ####
   - ####
   - ####
