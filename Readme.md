@@ -5,8 +5,8 @@
 
 ## Outline 
 -  [Big Projects](#big-projects)
-  - [1. Little Lemon](#little-lemon)
-  - [2. Theme Verse](#theme-verse) 
+   - [1. Little Lemon](#little-lemon)
+   - [2. Theme Verse](#theme-verse) 
 - [Mini Projects](#mini-projects)
   - [1. Accordian Component](#accordian)
   - [2. Random Color Generator](#rcg)
