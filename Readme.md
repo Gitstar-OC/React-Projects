@@ -8,11 +8,11 @@
 - [2 Random Color Generator](#RCG)
 
 ## Big Projects
-
+**_This are some huge projects that I have created (No one is full-stack currently), This project take all the react concepts that I have mentioned in [React Notes](), This code are just in another repository so I could update them when I want, you could also make pull request if you want to add some good things to this project and I will review your project_**
 
 ## Mini Projects
 
-**_See this is extremely useful line of code which maybe asked in interview, and might be helpful concept. You can modify it further to next level using your ideas and ability to code, I am just writing basic code of that particular topic!!_**
+**_This are some extremely useful line of code which maybe asked in interview, and might be helpful concept. You can modify it further to next level using your ideas and ability to code, I am just writing basic code of that particular topic!!_**
 
  <a name="Accordian"></a>
 1. [Accordian Component](projects/src/Accordian/Accordian.jsx) (<50 loc) 
