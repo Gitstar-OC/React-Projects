@@ -5,20 +5,21 @@
 
 ## Outline 
 - [Big Projects](#big-projects)
-  - [Little Lemon](#little-lemon)
-  - [Theme Verse (In Progress..)](#theme-verse) 
+  - [1. Little Lemon](#little-lemon)
+  - [2. Theme Verse (In Progress..)](#theme-verse) 
 - [Mini Projects](#mini-projects)
-  - [1 Accordian Component](#accordian)
-  - [2 Random Color Generator](#rcg)
+  - [1. Accordian Component](#accordian)
+  - [2. Random Color Generator](#rcg)
 
 ## Big Projects
 **_These are some huge projects that I have created (No one is full-stack currently). These projects encompass all the React concepts that I have mentioned in [React Notes](https://github.com/Gitstar-OC/React-Notes). The code for these projects is stored in separate repositories so I can update them as needed. You can also make pull requests if you want to contribute, and I will review your changes._**
 
 <a name="little-lemon"></a>
-- 1. [Little Lemon Coursera]()
+- ### 1. [Little Lemon Coursera](https://github.com/Gitstar-OC/Little-Lemon-Coursera)
+  > <details> The Capstone project at the center of this course is based on a scenario involving the restaurant Little Lemon. In particular, the owners of Little Lemon have received negative feedback on the reserve a table function on the Little Lemon website. Users are confused about how to use it and unhappy with how it looks and functions. You have to build a responsive web app and demonstrate multiple skills by coding a modern front end application that allows users to reserve a table for the Little Lemon restaurant.</details>
 
 <a name="theme-verse"></a>
-- 2. [Theme-Verse]()
+- ### 2. [Theme-Verse]()
 
 ## Mini Projects
 
