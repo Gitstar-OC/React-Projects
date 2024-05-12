@@ -48,8 +48,7 @@
 
 **_These are some extremely useful lines of code which may be asked in interviews and might be helpful concepts. You can modify them further to the next level using your ideas and coding abilities. I am just providing basic code for each particular topic._**
 <!--
-<a name="accordian"></a> -->
-- #### 1. [Accordian Component](projects/src/Accordian/Accordian.jsx) (<50 loc) 
+<a name="accordian"></a> --> #### 1. [Accordian Component](projects/src/Accordian/Accordian.jsx) (<50 loc) 
    - This is a button which, on click, opens multiple divs or components, and if the button is not enabled, you can only see one component or div at a time!
    > #### _**`useState Hook, Coping State, Map Method, Push and Splice`**_
 
