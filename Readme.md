@@ -18,9 +18,9 @@
   - #### [8. Theme Switcher]() 
   - #### [9. Scroll Indicator]() 
   - #### [10. Tabs]() 
-  - ####
-  - ####
-  - ####
+  - #### [11. Modal Popup]()
+  - #### [12. Github Profile Finder]()
+  - #### [13. Search Autocomplete]() 
   - ####
   - ####
   - ####
