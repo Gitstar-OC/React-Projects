@@ -19,13 +19,13 @@
   - [9. Scroll Indicator](#scroll-indicator) 
   - [10. Tabs](#tabs) 
   - [11. Modal Popup](#modal-pppup)
-  - [12. Github Profile Finder]()
-  - [13. Search Autocomplete]() 
-  - [14. Feature Flag]() 
-  - [15. useFetch Custom Hook]() 
-  - [16. useOnclickOutside Custom Hook]() 
-  - [17. useWindowResize Custom Hook]()
-  - [18. Scroll To Top/Bottom]()
+  - [12. Github Profile Finder](#github-profile-finder)
+  - [13. Search Autocomplete](#search-autocomplete) 
+  - [14. Feature Flag](#feature-flag) 
+  - [15. useFetch Custom Hook](#useFetch-CustomHook) 
+  - [16. useOnclickOutside Custom Hook](#useOnclickOutside) 
+  - [17. useWindowResize Custom Hook](#useWindowResize)
+  - [18. Scroll To Top/Bottom](#ScrollToTop)
 
 ## Big Projects
 **_These are some huge projects that I have created (No one is full-stack currently). These projects encompass all the React concepts that I have mentioned in [React Notes](https://github.com/Gitstar-OC/React-Notes). The code for these projects is stored in separate repositories so I can update them as needed. You can also make pull requests if you want to contribute, and I will review your changes._**
