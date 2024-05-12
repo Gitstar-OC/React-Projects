@@ -8,7 +8,7 @@
    - [1. Little Lemon](#little-lemon)
    - [2. Theme Verse](#theme-verse) 
 - [Mini Projects](#mini-projects)
-  - [1. Accordian Component](#accordian)
+  - [1. Accordian Component](#accordian-component)
   - [2. Random Color Generator](#rcg)
   - [3. Star Rating](#star-rating)
   - [4. Image Slider](#image-slider)
