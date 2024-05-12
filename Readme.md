@@ -15,9 +15,9 @@
   - #### [5. Load More Button]() 
   - #### [6. Tree View]() 
   - #### [7. QR Code Generator]()
-  - #### 
-  - ####
-  - ####
+  - #### [8. Theme Switcher]() 
+  - #### [9. Scroll Indicator]() 
+  - #### [10. Tabs]() 
   - ####
   - ####
   - ####
