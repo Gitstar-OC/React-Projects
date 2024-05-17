@@ -1,5 +1,5 @@
-# React Projects
-- This is the React projects that I have created. Feel free to review, revise, and fork when required.
+# Mini React Projects
+- This are the React projects that I have created. Feel free to review, revise, and fork when required.
 
 ---
 
