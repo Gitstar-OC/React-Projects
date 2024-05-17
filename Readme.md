@@ -4,10 +4,11 @@
 ---
 
 ## Outline 
+<!--
 -  [Big Projects](#big-projects)
    - [1. Little Lemon](#little-lemon)
    - [2. Theme Verse](#theme-verse) 
-- [Mini Projects](#mini-projects)
+- [Mini Projects](#mini-projects) -->
   - [1. Accordian Component](#accordian)
   - [2. Random Color Generator](#rcg)
   - [3. Star Rating](#star-rating)
@@ -27,6 +28,7 @@
   - [17. useWindowResize Custom Hook](#useWindowResize)
   - [18. Scroll To Top/Bottom](#ScrollToTop)
 
+<!--
 ## Big Projects
 **_These are some huge projects that I have created (No one is full-stack currently). These projects encompass all the React concepts that I have mentioned in [React Notes](https://github.com/Gitstar-OC/React-Notes). The code for these projects is stored in separate repositories so I can update them as needed. You can also make pull requests if you want to contribute, and I will review your changes._**
 
@@ -43,6 +45,7 @@
   > <details> This is a platform that offers customizable themes for the primary sections of your homepage, tailored to your preferences. Various leading technologies are used in this project with some css libraries like Tailwind and Bootstrap, JavaScript libraries like React and Chakra UI. I will be adding a page that will be used to show the websites that I have built from a figma file and add a path to it. </details>
   
   >  #### _**`Complete React Concepts, TailwindCSS, Bootstrap, ChakraUI, Vite`**_
+-->
 
 ## Mini Projects
 
@@ -62,7 +65,7 @@
 - #### 3. [Star Rating](projects/src/StarRating.jsx) (<70 loc)
    - This component allows users to rate something using stars, typically seen in product reviews or feedback forms.
    > #### _**`useState Hook, Array Mapping, Conditional Rendering`**_
-
+<!--
 <a name="image-slider"></a>
 - #### 4. [Image Slider](projects/src/ImageSlider.jsx) (<100 loc)
    - This component displays a series of images that users can navigate through using previous and next buttons.
