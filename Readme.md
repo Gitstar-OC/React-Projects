@@ -11,8 +11,8 @@
 - [Mini Projects](#mini-projects) -->
   - [1. Accordian Component](#accordian)
   - [2. Random Color Generator](#rcg)
-  - [3. Star Rating](#star-rating)
-  - [4. Image Slider](#image-slider)
+  - [3. Star Rating](#star-rating) 
+  <!-- [4. Image Slider](#image-slider)
   - [5. Load More Button](#load-more) 
   - [6. Tree View](#tree-view) 
   - [7. QR Code Generator](#qr-code-generator)
