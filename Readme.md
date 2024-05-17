@@ -43,7 +43,7 @@
    > #### _**`useEffect, useState Hook, For-Loop`**_
   
 <a name="star-rating"></a> 
-- #### 3. [Star Rating](projects/src/StarRating.jsx) (<70 loc)
+- #### 3. [Star Rating](projects/src/StarRating/StarRating.jsx) (<70 loc)
    - This component allows users to rate something using stars, typically seen in product reviews or feedback forms.
    > #### _**`useState Hook, Array Mapping, Conditional Rendering`**_
 <!--
