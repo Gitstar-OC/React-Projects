@@ -6,8 +6,8 @@
 ## Outline 
   - [1. Accordian Component](#accordian)
   - [2. Random Color Generator](#rcg)
-  - [3. Star Rating](#star-rating) 
-  <!-- [4. Image Slider](#image-slider)
+  <!-- [3. Star Rating](#star-rating) 
+  - [4. Image Slider](#image-slider)
   - [5. Load More Button](#load-more) 
   - [6. Tree View](#tree-view) 
   - [7. QR Code Generator](#qr-code-generator)
@@ -41,12 +41,13 @@
 - #### 2. [Random Color Generator](projects/src/RCG.jsx) (<60 loc)
    - This is a page that, on click of the "Generate Random Color" button, generates a random color which can be chosen accordingly like "RGB" or "HEX" color.
    > #### _**`useEffect, useState Hook, For-Loop`**_
-  
+
+<!--  
 <a name="star-rating"></a> 
 - #### 3. [Star Rating](projects/src/StarRating/StarRating.jsx) (<70 loc)
    - This component allows users to rate something using stars, typically seen in product reviews or feedback forms.
    > #### _**`useState Hook, Array Mapping, Conditional Rendering`**_
-<!--
+
 <a name="image-slider"></a>
 - #### 4. [Image Slider](projects/src/ImageSlider.jsx) (<100 loc)
    - This component displays a series of images that users can navigate through using previous and next buttons.
